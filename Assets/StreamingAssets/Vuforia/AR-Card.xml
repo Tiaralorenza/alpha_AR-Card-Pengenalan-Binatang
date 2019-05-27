@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Omnivoraa" size="500.000000 281.666656" />
+    <ImageTarget name="Karnivoras" size="500.000000 333.571442" />
+    <ImageTarget name="Herbivora" size="500.000000 269.512207" />
+  </Tracking>
+</QCARConfig>
